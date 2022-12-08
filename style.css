@@ -11,18 +11,3 @@ img {
 ul {
     list-style-type: none;
 }
-
-.movie_form {
-    background-color: white;
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-.fa-xmark {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    cursor: pointer;
-}
